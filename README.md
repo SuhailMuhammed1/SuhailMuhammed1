@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhailmuhammed1&label=Profile%20views&color=0e75b6&style=flat" alt="suhailmuhammed1" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Django, FLutter, Python**
+- 💬 Ask me about **Python, Django, Flutter, React**
 
 - 📫 How to reach me **suhailjr111@gmail.com**
 
